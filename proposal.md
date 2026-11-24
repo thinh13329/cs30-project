@@ -2,7 +2,7 @@
 
 ## Description
 
-Describe what I'm going to make...
+I'm going to make Dungeon Escape. It is 2D top-down advemture game where the player explores a mysterious dungeon and try to find the way out.
 
 ## Needs to Have List
 
