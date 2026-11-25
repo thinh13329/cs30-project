@@ -2,7 +2,7 @@
 
 ## Description
 
-I'm going to make Dungeon Escape. It is 2D top-down advemture game where the player explores a mysterious dungeon and try to find the way out. The player must navigate through walls, collect keys, avoid enemies, and unlock the exit door to complete the level.
+I'm going to make Dungeon Escape. It is 2D top-down adventure game where the player explores a mysterious dungeon and try to find the way out. The player must navigate through walls, collect keys, avoid enemies, and unlock the exit door to complete the level.
 
 
 ## Needs to Have List
@@ -18,5 +18,9 @@ I'm going to make Dungeon Escape. It is 2D top-down advemture game where the pla
 
 ## Nice To Have List
 
-- other thing
-- yet one more thing
+- Multiple dungeon levels.
+- A health system.
+- Coins and treasures chests.
+- Sound effects and background music.
+- A mini-map.
+- Diffrent types of enemies.
