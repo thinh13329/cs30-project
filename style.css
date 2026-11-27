@@ -8,8 +8,7 @@ html, body {
 #canvas-container {
   width: 100vw;
   height: 100vh;
-  display: ;
-  place-items: ;
+  place-items: center;
 }
 
 canvas {
